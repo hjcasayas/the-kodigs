@@ -1,0 +1,18 @@
+.counter-page {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card {
+  max-width: 480px;
+  height: auto;
+
+  &__count {
+    margin: 0 1rem;
+  }
+
+  &__count-container {
+    margin: 0 0 0.5rem;
+  }
+}

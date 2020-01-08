@@ -1,0 +1,14 @@
+.header {
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  &__title {
+    color: rgba(255, 255, 255, 0.65);
+  }
+
+  &__menu {
+    line-height: 64px;
+  }
+}
